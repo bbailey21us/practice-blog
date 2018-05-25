@@ -1,0 +1,43 @@
+body{
+   font-family: 'Source Sans Pro', sans-serif;
+   width:60%;
+   border:25px solid #bdc3c7;
+   margin:25px auto;
+
+}
+
+h2{
+    color:#2c3e50;
+    margin:25px;
+    font-size:50px;
+
+}
+p{
+    font-weight: 700;
+    font-size:20px; 
+
+}
+div{
+    margin:25px;
+}
+
+.quote{
+    border-left: 7px solid #bdc3c7;
+    padding: 5px;
+
+}
+
+h4{
+    margin:23px;
+    color:#3498db;
+    letter-spacing: 1px;
+    font-size:25px;
+}
+
+hr{
+    margin:0 25px ;
+    border-width:2px;
+    color:#bdc3c7;
+    opacity:0.5;
+    
+}
